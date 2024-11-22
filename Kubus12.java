@@ -16,6 +16,8 @@ public class Kubus12 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
+        System.out.println("========= RUMUS KUBUS =========");
+        System.out.println("== VOLUME DAN LUAS PERMUKAAN ==");
         System.out.print("Masukkan panjang Sisi : ");
         int sisi = sc.nextInt();
         sc.nextLine();
